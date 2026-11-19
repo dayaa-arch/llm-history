@@ -1,0 +1,3 @@
+# 論文PDFは手元の papers/ に置ける。リポジトリにはコミットしない。
+papers/*.pdf
+papers/**/*.pdf
